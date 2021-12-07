@@ -1,3 +1,11 @@
 .App {
+  height: 100vh;
+  max-width: 1440px;
+  width: 100vw;
+  margin: 0 auto;
 
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
 }
