@@ -1,3 +1,12 @@
 .main {
+  border: 1px solid black;
+  background-image: url("../../assets/img/bg-img-1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  //background-position: center;
 
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  flex: 1 1 100px;
 }
